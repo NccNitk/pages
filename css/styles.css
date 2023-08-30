@@ -834,7 +834,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/SAN_5594.JPG') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/SAN_1225.webp') center center no-repeat;
 	background-size: cover;
 }
 
